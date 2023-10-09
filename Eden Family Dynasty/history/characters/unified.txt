@@ -7,7 +7,7 @@
 	intrigue = 100
 	stewardship = 100
 	prowess = 100
-	religion = "secularism"
+	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
 	trait = education_diplomacy_5
@@ -27,7 +27,7 @@
 	trait = confider
 	trait = poet
 	sexuality = bisexuality
-	0.1.1 = {
+	787.1.1 = {
 		birth = yes
 	}
 }

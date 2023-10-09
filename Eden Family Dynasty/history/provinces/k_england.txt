@@ -3,7 +3,7 @@
 ###c_middlesex
 1527 = {	#Edmonton / London
 	culture = unified
-	religion = secularism
+	religion = secular
 	holding = castle_holding
 	769.1.1 = {
 		special_building_slot = the_tower_of_london_01
@@ -29,10 +29,10 @@
 	holding = city_holding
 }
 1528 = {	#Woxbrigge
-	holding = none
+	holding = city_holding
 }
 1529 = {	#Gore
-	holding = none
+	holding = city_holding
 }
 1530 = {	#Brentford
 	holding = church_holding
