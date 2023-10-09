@@ -1,0 +1,33 @@
+1000000 = {
+	name = "Odin"
+	dna = 1000000_odin
+	dynasty = 1000000
+	martial = 100
+	diplomacy = 100
+	intrigue = 100
+	stewardship = 100
+	prowess = 100
+	religion = "secularism"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = bastard_founder
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = bisexuality
+	0.1.1 = {
+		birth = yes
+	}
+}
