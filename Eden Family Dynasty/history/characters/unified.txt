@@ -1,3 +1,6 @@
+
+# Britain
+
 1000000 = {
 	name = "Odin"
 	dna = 1000000_odin
@@ -31,39 +34,12 @@
 	787.1.1 = {
 		birth = yes
 	}
-	803.1.1 = {
-		add_spouse = 1000001
-	}
 }
-1000001 = {
-	name = "Sun"
-	female = yes
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_learning_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = chaste
-	trait = content
-	trait = humble
-	trait = patient
-	trait = loyal
-	sexuality = heterosexual
-	787.1.1 = {
-		birth = yes
-	}
-}
-1000002 = {
+
+## England
+
+1100000 = {
+	name = "Odin"
 	dynasty = 1000000
 	diplomacy = 100
 	martial = 100
@@ -75,7 +51,6 @@
 	culture = "unified"
 	disallow_random_traits = yes
 	trait = education_diplomacy_5
-	trait = bastard_founder
 	trait = pure_blooded
 	trait = fecund
 	trait = intellect_good_3
@@ -92,12 +67,15 @@
 	trait = poet
 	sexuality = heterosexual
 	father = 1000000
-	mother = 1000001
 	803.1.1 = {
 		birth = yes
 	}
 }
-1000003 = {
+
+### Bedford
+
+1110000 = {
+	name = "Odin"
 	dynasty = 1000000
 	diplomacy = 100
 	martial = 100
@@ -109,7 +87,883 @@
 	culture = "unified"
 	disallow_random_traits = yes
 	trait = education_diplomacy_5
-	trait = bastard_founder
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1100000
+	819.1.1 = {
+		birth = yes
+	}
+}
+
+#### Middlesex
+
+1111000 = {
+	name = "Odin"
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1110000
+	835.1.1 = {
+		birth = yes
+	}
+}
+
+##### London
+
+1111100 = {
+	name = "Odin"
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1111000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Brentford
+
+1111200 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1111000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Gore
+
+1111300 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1111000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Southwark
+
+1111400 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1111000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Woxbrigge
+
+1111500 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1111000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+#### Essex
+
+1112000 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1110000
+	835.1.1 = {
+		birth = yes
+	}
+}
+
+##### Colchester
+
+1112100 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1112000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Maldon
+
+1112200 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1112000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Chelmsford
+
+1112300 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1112000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Dunmow
+
+1112400 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1112000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+#### Bedford
+
+1113000 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1110000
+	835.1.1 = {
+		birth = yes
+	}
+}
+
+##### Bedford
+
+1113100 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1113000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Ampthill
+
+1113200 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1113000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Luton
+
+1113300 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1113000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+#### Buckinghamshire
+
+1114000 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1110000
+	835.1.1 = {
+		birth = yes
+	}
+}
+
+##### Buckingham
+
+1114100 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1114000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Aylesbury
+
+1114200 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1114000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Newport
+
+1114300 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1114000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Wycombe
+
+1114400 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1114000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+#### Hertfordshire
+
+1115000 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1110000
+	835.1.1 = {
+		birth = yes
+	}
+}
+
+##### Berkhamsted
+
+1115100 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1115000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Saint Albans
+
+1115200 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1115000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Hertford
+
+1115300 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1115000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+# Wales
+
+1200000 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
 	trait = pure_blooded
 	trait = fecund
 	trait = intellect_good_3
@@ -126,12 +980,14 @@
 	trait = poet
 	sexuality = heterosexual
 	father = 1000000
-	mother = 1000001
 	803.1.1 = {
 		birth = yes
 	}
 }
-1000004 = {
+
+# Scotland
+
+1300000 = {
 	dynasty = 1000000
 	diplomacy = 100
 	martial = 100
@@ -143,7 +999,6 @@
 	culture = "unified"
 	disallow_random_traits = yes
 	trait = education_diplomacy_5
-	trait = bastard_founder
 	trait = pure_blooded
 	trait = fecund
 	trait = intellect_good_3
@@ -160,12 +1015,14 @@
 	trait = poet
 	sexuality = heterosexual
 	father = 1000000
-	mother = 1000001
 	803.1.1 = {
 		birth = yes
 	}
 }
-1000005 = {
+
+# Ireland
+
+1400000 = {
 	dynasty = 1000000
 	diplomacy = 100
 	martial = 100
@@ -177,7 +1034,6 @@
 	culture = "unified"
 	disallow_random_traits = yes
 	trait = education_diplomacy_5
-	trait = bastard_founder
 	trait = pure_blooded
 	trait = fecund
 	trait = intellect_good_3
@@ -194,12 +1050,14 @@
 	trait = poet
 	sexuality = heterosexual
 	father = 1000000
-	mother = 1000001
 	803.1.1 = {
 		birth = yes
 	}
 }
-1000006 = {
+
+# Mann
+
+1500000 = {
 	dynasty = 1000000
 	diplomacy = 100
 	martial = 100
@@ -211,7 +1069,6 @@
 	culture = "unified"
 	disallow_random_traits = yes
 	trait = education_diplomacy_5
-	trait = bastard_founder
 	trait = pure_blooded
 	trait = fecund
 	trait = intellect_good_3
@@ -228,7 +1085,6 @@
 	trait = poet
 	sexuality = heterosexual
 	father = 1000000
-	mother = 1000001
 	803.1.1 = {
 		birth = yes
 	}
