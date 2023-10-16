@@ -950,6 +950,566 @@
 	}
 }
 
+### Norfolk
+
+1120000 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1100000
+	819.1.1 = {
+		birth = yes
+	}
+}
+
+#### Norfolk
+
+1121000 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1120000
+	835.1.1 = {
+		birth = yes
+	}
+}
+
+##### Norwich
+
+1121100 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1121000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Thetford
+
+1121200 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1121000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Walsingham
+
+1121300 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1121000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Lynn
+
+1121400 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1121000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+#### Suffolk
+
+1122000 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1120000
+	835.1.1 = {
+		birth = yes
+	}
+}
+
+##### Ipswich
+
+1122100 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1122000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Sudbury
+
+1122200 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1122000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Blything
+
+1122300 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1122000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Beodericsworth
+
+1122400 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1122000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+#### Cambridgeshire
+
+1123000 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1120000
+	835.1.1 = {
+		birth = yes
+	}
+}
+
+##### Cambridge
+
+1123100 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1123000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Radfield
+
+1123200 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1123000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Papworth
+
+1123300 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1123000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
+##### Ely
+
+1123400 = {
+	dynasty = 1000000
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = education_diplomacy_5
+	trait = pure_blooded
+	trait = fecund
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = beauty_good_3
+	trait = shrewd
+	trait = strong
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = loyal
+	trait = confider
+	trait = poet
+	sexuality = heterosexual
+	father = 1123000
+	851.1.1 = {
+		birth = yes
+	}
+}
+
 # Wales
 
 1200000 = {
