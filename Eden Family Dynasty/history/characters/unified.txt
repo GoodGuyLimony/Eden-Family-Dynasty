@@ -1,9 +1,8 @@
 
-# Britain
+# E_MPEROR
 
 1000000 = {
 	name = "Odin"
-	dna = 1000000_odin
 	dynasty = 1000000
 	diplomacy = 100
 	martial = 100
@@ -34,9 +33,12 @@
 	787.1.1 = {
 		birth = yes
 	}
+	819.1.1 = {
+		death = yes
+	}
 }
 
-## England
+## K_ING England
 
 1100000 = {
 	name = "Odin"
@@ -70,9 +72,12 @@
 	803.1.1 = {
 		birth = yes
 	}
+	835.1.1 = {
+		death = yes
+	}
 }
 
-### Bedford
+### D_UKE Bedford
 
 1110000 = {
 	name = "Odin"
@@ -106,9 +111,12 @@
 	819.1.1 = {
 		birth = yes
 	}
+	851.1.1 = {
+		death = yes
+	}
 }
 
-#### Middlesex
+#### C_OUNT Middlesex
 
 1111000 = {
 	name = "Odin"
@@ -142,9 +150,12 @@
 	835.1.1 = {
 		birth = yes
 	}
+	867.1.1 = {
+		death = yes
+	}
 }
 
-##### London
+##### B_ARON London
 
 1111100 = {
 	name = "Odin"
@@ -178,9 +189,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Brentford
+##### B_ARON Brentford
 
 1111200 = {
 	dynasty = 1000000
@@ -213,9 +227,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Gore
+##### B_ARON Gore
 
 1111300 = {
 	dynasty = 1000000
@@ -248,9 +265,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Southwark
+##### B_ARON Southwark
 
 1111400 = {
 	dynasty = 1000000
@@ -283,9 +303,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Woxbrigge
+##### B_ARON Woxbrigge
 
 1111500 = {
 	dynasty = 1000000
@@ -318,9 +341,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-#### Essex
+#### C_OUNT Essex
 
 1112000 = {
 	dynasty = 1000000
@@ -353,9 +379,12 @@
 	835.1.1 = {
 		birth = yes
 	}
+	867.1.1 = {
+		death = yes
+	}
 }
 
-##### Colchester
+##### B_ARON Colchester
 
 1112100 = {
 	dynasty = 1000000
@@ -388,9 +417,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Maldon
+##### B_ARON Maldon
 
 1112200 = {
 	dynasty = 1000000
@@ -423,9 +455,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Chelmsford
+##### B_ARON Chelmsford
 
 1112300 = {
 	dynasty = 1000000
@@ -458,9 +493,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Dunmow
+##### B_ARON Dunmow
 
 1112400 = {
 	dynasty = 1000000
@@ -493,9 +531,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-#### Bedford
+#### C_OUNT Bedford
 
 1113000 = {
 	dynasty = 1000000
@@ -528,9 +569,12 @@
 	835.1.1 = {
 		birth = yes
 	}
+	867.1.1 = {
+		death = yes
+	}
 }
 
-##### Bedford
+##### B_ARON Bedford
 
 1113100 = {
 	dynasty = 1000000
@@ -563,9 +607,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Ampthill
+##### B_ARON Ampthill
 
 1113200 = {
 	dynasty = 1000000
@@ -598,9 +645,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Luton
+##### B_ARON Luton
 
 1113300 = {
 	dynasty = 1000000
@@ -633,9 +683,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-#### Buckinghamshire
+#### C_OUNT Buckinghamshire
 
 1114000 = {
 	dynasty = 1000000
@@ -668,9 +721,12 @@
 	835.1.1 = {
 		birth = yes
 	}
+	867.1.1 = {
+		death = yes
+	}
 }
 
-##### Buckingham
+##### B_ARON Buckingham
 
 1114100 = {
 	dynasty = 1000000
@@ -703,9 +759,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Aylesbury
+##### B_ARON Aylesbury
 
 1114200 = {
 	dynasty = 1000000
@@ -738,9 +797,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Newport
+##### B_ARON Newport
 
 1114300 = {
 	dynasty = 1000000
@@ -773,9 +835,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Wycombe
+##### B_ARON Wycombe
 
 1114400 = {
 	dynasty = 1000000
@@ -808,9 +873,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-#### Hertfordshire
+#### C_OUNT Hertfordshire
 
 1115000 = {
 	dynasty = 1000000
@@ -843,9 +911,12 @@
 	835.1.1 = {
 		birth = yes
 	}
+	867.1.1 = {
+		death = yes
+	}
 }
 
-##### Berkhamsted
+##### B_ARON Berkhamsted
 
 1115100 = {
 	dynasty = 1000000
@@ -878,9 +949,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Saint Albans
+##### B_ARON Saint Albans
 
 1115200 = {
 	dynasty = 1000000
@@ -913,9 +987,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Hertford
+##### B_ARON Hertford
 
 1115300 = {
 	dynasty = 1000000
@@ -948,9 +1025,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-### Norfolk
+### D_UKE Norfolk
 
 1120000 = {
 	dynasty = 1000000
@@ -983,9 +1063,12 @@
 	819.1.1 = {
 		birth = yes
 	}
+	851.1.1 = {
+		death = yes
+	}
 }
 
-#### Norfolk
+#### C_OUNT Norfolk
 
 1121000 = {
 	dynasty = 1000000
@@ -1018,9 +1101,12 @@
 	835.1.1 = {
 		birth = yes
 	}
+	867.1.1 = {
+		death = yes
+	}
 }
 
-##### Norwich
+##### B_ARON Norwich
 
 1121100 = {
 	dynasty = 1000000
@@ -1053,9 +1139,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Thetford
+##### B_ARON Thetford
 
 1121200 = {
 	dynasty = 1000000
@@ -1088,9 +1177,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Walsingham
+##### B_ARON Walsingham
 
 1121300 = {
 	dynasty = 1000000
@@ -1123,9 +1215,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Lynn
+##### B_ARON Lynn
 
 1121400 = {
 	dynasty = 1000000
@@ -1158,9 +1253,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-#### Suffolk
+#### C_OUNT Suffolk
 
 1122000 = {
 	dynasty = 1000000
@@ -1193,9 +1291,12 @@
 	835.1.1 = {
 		birth = yes
 	}
+	867.1.1 = {
+		death = yes
+	}
 }
 
-##### Ipswich
+##### B_ARON Ipswich
 
 1122100 = {
 	dynasty = 1000000
@@ -1228,9 +1329,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Sudbury
+##### B_ARON Sudbury
 
 1122200 = {
 	dynasty = 1000000
@@ -1263,9 +1367,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Blything
+##### B_ARON Blything
 
 1122300 = {
 	dynasty = 1000000
@@ -1298,9 +1405,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Beodericsworth
+##### B_ARON Beodericsworth
 
 1122400 = {
 	dynasty = 1000000
@@ -1333,9 +1443,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-#### Cambridgeshire
+#### C_OUNT Cambridgeshire
 
 1123000 = {
 	dynasty = 1000000
@@ -1368,9 +1481,12 @@
 	835.1.1 = {
 		birth = yes
 	}
+	867.1.1 = {
+		death = yes
+	}
 }
 
-##### Cambridge
+##### B_ARON Cambridge
 
 1123100 = {
 	dynasty = 1000000
@@ -1403,9 +1519,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Radfield
+##### B_ARON Radfield
 
 1123200 = {
 	dynasty = 1000000
@@ -1438,9 +1557,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Papworth
+##### B_ARON Papworth
 
 1123300 = {
 	dynasty = 1000000
@@ -1473,9 +1595,12 @@
 	851.1.1 = {
 		birth = yes
 	}
+	883.1.1 = {
+		death = yes
+	}
 }
 
-##### Ely
+##### B_ARON Ely
 
 1123400 = {
 	dynasty = 1000000
@@ -1508,144 +1633,8 @@
 	851.1.1 = {
 		birth = yes
 	}
-}
-
-# Wales
-
-1200000 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1000000
-	803.1.1 = {
-		birth = yes
+	883.1.1 = {
+		death = yes
 	}
 }
 
-# Scotland
-
-1300000 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1000000
-	803.1.1 = {
-		birth = yes
-	}
-}
-
-# Ireland
-
-1400000 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1000000
-	803.1.1 = {
-		birth = yes
-	}
-}
-
-# Mann
-
-1500000 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1000000
-	803.1.1 = {
-		birth = yes
-	}
-}
