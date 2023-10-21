@@ -883,3 +883,108 @@
 	}
 }
 
+1130000 = {
+	name = "Halbert"
+	dynasty = 1000000
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = education_diplomacy_5
+	sexuality = heterosexual
+	father = 1100000
+	819.1.1 = {
+		birth = yes
+	}
+	851.1.1 = {
+		death = yes
+	}
+}
+
+1131000 = {
+	name = "Waldo"
+	dynasty = 1000000
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = education_diplomacy_5
+	sexuality = heterosexual
+	father = 1130000
+	835.1.1 = {
+		birth = yes
+	}
+	867.1.1 = {
+		death = yes
+	}
+}
+
+1131100 = {
+	name = "Scott"
+	dynasty = 1000000
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = education_diplomacy_5
+	sexuality = heterosexual
+	father = 1131000
+	851.1.1 = {
+		birth = yes
+	}
+	883.1.1 = {
+		death = yes
+	}
+}
+
+1131200 = {
+	name = "Bill"
+	dynasty = 1000000
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = education_diplomacy_5
+	sexuality = heterosexual
+	father = 1131000
+	851.1.1 = {
+		birth = yes
+	}
+	883.1.1 = {
+		death = yes
+	}
+}
+
+1131300 = {
+	name = "Herb"
+	dynasty = 1000000
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = education_diplomacy_5
+	sexuality = heterosexual
+	father = 1131000
+	851.1.1 = {
+		birth = yes
+	}
+	883.1.1 = {
+		death = yes
+	}
+}
+
