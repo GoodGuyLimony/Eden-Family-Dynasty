@@ -4,66 +4,35 @@
 1000000 = {
 	name = "Odin"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = bastard_founder
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
+	trait = bastard_founder
 	sexuality = heterosexual
 	787.1.1 = {
 		birth = yes
 	}
+	819.1.1 = {
+		death = yes
+	}
 }
 
-## K_ING England
-
 1100000 = {
-	name = "Odin"
+	name = "William"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1000000
 	803.1.1 = {
@@ -74,35 +43,17 @@
 	}
 }
 
-### D_UKE Bedford
-
 1110000 = {
-	name = "Odin"
+	name = "William"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1100000
 	819.1.1 = {
@@ -112,36 +63,18 @@
 		death = yes
 	}
 }
-
-#### C_OUNT Middlesex
 
 1111000 = {
-	name = "Odin"
+	name = "William"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1110000
 	835.1.1 = {
@@ -151,36 +84,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON London
 
 1111100 = {
-	name = "Odin"
+	name = "William"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1111000
 	851.1.1 = {
@@ -190,35 +105,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Brentford
 
 1111200 = {
+	name = "Jenson"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1111000
 	851.1.1 = {
@@ -228,35 +126,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Gore
 
 1111300 = {
+	name = "Cliff"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1111000
 	851.1.1 = {
@@ -266,35 +147,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Southwark
 
 1111400 = {
+	name = "Dennis"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1111000
 	851.1.1 = {
@@ -304,35 +168,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Woxbrigge
 
 1111500 = {
+	name = "Elmer"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1111000
 	851.1.1 = {
@@ -343,34 +190,17 @@
 	}
 }
 
-#### C_OUNT Essex
-
 1112000 = {
+	name = "Percy"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1110000
 	835.1.1 = {
@@ -380,35 +210,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Colchester
 
 1112100 = {
+	name = "Jack"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1112000
 	851.1.1 = {
@@ -418,35 +231,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Maldon
 
 1112200 = {
+	name = "Drake"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1112000
 	851.1.1 = {
@@ -456,35 +252,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Chelmsford
 
 1112300 = {
+	name = "Lee"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1112000
 	851.1.1 = {
@@ -494,35 +273,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Dunmow
 
 1112400 = {
+	name = "Neil"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1112000
 	851.1.1 = {
@@ -533,34 +295,17 @@
 	}
 }
 
-#### C_OUNT Bedford
-
 1113000 = {
+	name = "Tom"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1110000
 	835.1.1 = {
@@ -570,35 +315,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Bedford
 
 1113100 = {
+	name = "Danny"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1113000
 	851.1.1 = {
@@ -608,35 +336,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Ampthill
 
 1113200 = {
+	name = "Tony"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1113000
 	851.1.1 = {
@@ -646,35 +357,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Luton
 
 1113300 = {
+	name = "Bartholomew"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1113000
 	851.1.1 = {
@@ -685,34 +379,17 @@
 	}
 }
 
-#### C_OUNT Buckinghamshire
-
 1114000 = {
+	name = "Ged"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1110000
 	835.1.1 = {
@@ -722,35 +399,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Buckingham
 
 1114100 = {
+	name = "Manfred"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1114000
 	851.1.1 = {
@@ -760,35 +420,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Aylesbury
 
 1114200 = {
+	name = "Harley"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1114000
 	851.1.1 = {
@@ -798,35 +441,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Newport
 
 1114300 = {
+	name = "Alban"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1114000
 	851.1.1 = {
@@ -836,73 +462,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Wycombe
-
-1114400 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1114000
-	851.1.1 = {
-		birth = yes
-	}
-	883.1.1 = {
-		death = yes
-	}
-}
-
-#### C_OUNT Hertfordshire
 
 1115000 = {
+	name = "Ainsley"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1110000
 	835.1.1 = {
@@ -913,34 +484,17 @@
 	}
 }
 
-##### B_ARON Berkhamsted
-
 1115100 = {
+	name = "Stephen"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1115000
 	851.1.1 = {
@@ -950,35 +504,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Saint Albans
 
 1115200 = {
+	name = "Alaric"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1115000
 	851.1.1 = {
@@ -988,35 +525,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Hertford
 
 1115300 = {
+	name = "Bobby"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1115000
 	851.1.1 = {
@@ -1027,34 +547,38 @@
 	}
 }
 
-### D_UKE Norfolk
+1115400 = {
+	name = "Don"
+	dynasty = 1000000
+	religion = "secular"
+	culture = "unified"
+	disallow_random_traits = yes
+	trait = honest
+	trait = trusting
+	trait = compassionate
+	trait = forgiving
+	trait = education_diplomacy_5
+	sexuality = heterosexual
+	father = 1115000
+	851.1.1 = {
+		birth = yes
+	}
+	883.1.1 = {
+		death = yes
+	}
+}
 
 1120000 = {
+	name = "Terry"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1100000
 	819.1.1 = {
@@ -1064,35 +588,18 @@
 		death = yes
 	}
 }
-
-#### C_OUNT Norfolk
 
 1121000 = {
+	name = "Jeremy"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1120000
 	835.1.1 = {
@@ -1102,35 +609,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Norwich
 
 1121100 = {
+	name = "Theo"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1121000
 	851.1.1 = {
@@ -1140,35 +630,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Thetford
 
 1121200 = {
+	name = "Ed"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1121000
 	851.1.1 = {
@@ -1178,35 +651,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Walsingham
 
 1121300 = {
+	name = "Norris"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1121000
 	851.1.1 = {
@@ -1216,35 +672,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Lynn
 
 1121400 = {
+	name = "Gardner"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1121000
 	851.1.1 = {
@@ -1255,34 +694,17 @@
 	}
 }
 
-#### C_OUNT Suffolk
-
 1122000 = {
+	name = "Osbert"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1120000
 	835.1.1 = {
@@ -1292,35 +714,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Ipswich
 
 1122100 = {
+	name = "Scott"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1122000
 	851.1.1 = {
@@ -1330,35 +735,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Sudbury
 
 1122200 = {
+	name = "Alfred"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1122000
 	851.1.1 = {
@@ -1368,35 +756,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Blything
 
 1122300 = {
+	name = "Nigel"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1122000
 	851.1.1 = {
@@ -1406,73 +777,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Beodericsworth
-
-1122400 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1122000
-	851.1.1 = {
-		birth = yes
-	}
-	883.1.1 = {
-		death = yes
-	}
-}
-
-#### C_OUNT Cambridgeshire
 
 1123000 = {
+	name = "Herman"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1120000
 	835.1.1 = {
@@ -1483,34 +799,17 @@
 	}
 }
 
-##### B_ARON Cambridge
-
 1123100 = {
+	name = "Chad"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1123000
 	851.1.1 = {
@@ -1520,35 +819,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Radfield
 
 1123200 = {
+	name = "Donald"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1123000
 	851.1.1 = {
@@ -1558,35 +840,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Papworth
 
 1123300 = {
+	name = "Todd"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1123000
 	851.1.1 = {
@@ -1596,35 +861,18 @@
 		death = yes
 	}
 }
-
-##### B_ARON Ely
 
 1123400 = {
+	name = "Gred"
 	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
 	religion = "secular"
 	culture = "unified"
 	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
 	trait = honest
 	trait = trusting
 	trait = compassionate
 	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
+	trait = education_diplomacy_5
 	sexuality = heterosexual
 	father = 1123000
 	851.1.1 = {
@@ -1635,384 +883,3 @@
 	}
 }
 
-### D_UKE Northumberland
-
-1130000 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1100000
-	819.1.1 = {
-		birth = yes
-	}
-	851.1.1 = {
-		death = yes
-	}
-}
-
-#### C_OUNT Northumberland
-
-1131000 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1130000
-	835.1.1 = {
-		birth = yes
-	}
-	867.1.1 = {
-		death = yes
-	}
-}
-
-##### B_ARON Bamburgh
-
-1131100 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1131000
-	851.1.1 = {
-		birth = yes
-	}
-	883.1.1 = {
-		death = yes
-	}
-}
-
-##### B_ARON Rothbury
-
-1131200 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1131000
-	851.1.1 = {
-		birth = yes
-	}
-	883.1.1 = {
-		death = yes
-	}
-}
-
-##### B_ARON Lindisfarne
-
-1131300 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1131000
-	851.1.1 = {
-		birth = yes
-	}
-	883.1.1 = {
-		death = yes
-	}
-}
-
-##### B_ARON Hexham
-
-1131400 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1131000
-	851.1.1 = {
-		birth = yes
-	}
-	883.1.1 = {
-		death = yes
-	}
-}
-
-#### C_OUNT Durham
-
-1132000 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1130000
-	835.1.1 = {
-		birth = yes
-	}
-	867.1.1 = {
-		death = yes
-	}
-}
-
-##### B_ARON Durham
-
-1132100 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1132000
-	851.1.1 = {
-		birth = yes
-	}
-	883.1.1 = {
-		death = yes
-	}
-}
-
-
-##### B_ARON Hartlepool
-
-1132200 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1132000
-	851.1.1 = {
-		birth = yes
-	}
-	883.1.1 = {
-		death = yes
-	}
-}
-
-
-##### B_ARON Darlington
-
-1132300 = {
-	dynasty = 1000000
-	diplomacy = 100
-	martial = 100
-	stewardship = 100
-	intrigue = 100
-	learning = 100
-	prowess = 100
-	religion = "secular"
-	culture = "unified"
-	disallow_random_traits = yes
-	trait = education_diplomacy_5
-	trait = pure_blooded
-	trait = fecund
-	trait = intellect_good_3
-	trait = physique_good_3
-	trait = beauty_good_3
-	trait = shrewd
-	trait = strong
-	trait = honest
-	trait = trusting
-	trait = compassionate
-	trait = forgiving
-	trait = loyal
-	trait = confider
-	trait = poet
-	sexuality = heterosexual
-	father = 1132000
-	851.1.1 = {
-		birth = yes
-	}
-	883.1.1 = {
-		death = yes
-	}
-}
