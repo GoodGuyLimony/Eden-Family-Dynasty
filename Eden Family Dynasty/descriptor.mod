@@ -3,4 +3,4 @@ tags={
 	"Alternative History"
 }
 name="Eden Family Dynasty"
-supported_version="1.10.2"
+supported_version="1.11.0.1"
